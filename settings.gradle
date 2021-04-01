@@ -1,0 +1,2 @@
+include ':recycler_view_module'
+rootProject.name = "RecyclerViewModule"
